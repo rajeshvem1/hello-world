@@ -3,6 +3,7 @@
 <h2> Deploy on docker today </h2>
 <h2> Deploy on existing container </h2>
 <h2> Deploy on docker using ansible</h2>
+<h2> Deploy on docker using ansible  mnuall</h2>
 
 
 
