@@ -2,6 +2,7 @@
 <h2> Ansible Sep2  .. for future releases </h2>
 <h2> container Sep2  .. for future releases </h2>
 <h2> fresh deployment Sep2  .. for future releases </h2>
+<h2> upgrade setup Sep2  .. for future releases </h2>
 
 
 
